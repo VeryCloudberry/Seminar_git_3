@@ -55,3 +55,4 @@ GitHub — это многофункциональная платформа дл
 test conflict
 test conflict 2!
 test conflict 3!!! WTF?
+ну что на этот раз получится ли конфликт?
