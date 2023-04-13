@@ -1,6 +1,6 @@
 ## Инструкция по работе с GIT
 Перед началом работы выполнить следующие команды:
-* git --version
+* git --version - для проверки имеющейся версии
 * git config --global user.name «Ваше имя английскими буквами»
 * git config --global user.email ваша почта@example.com 
 
